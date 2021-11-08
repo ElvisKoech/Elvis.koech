@@ -1,5 +1,6 @@
 # Elvis.koech Portfolio
 Data Analyst skilled in SQL, Tableau, PowerBI, Machine Learning, and Python
+
 [Project 1 : Bank-churn-prediction-app ](https://github.com/ElvisKoech/bank-churn-prediction-app)
 + Customer churn (or customer attrition) is a tendency of customers to abandon a brand and stop being a paying client of a particular business.
 + I used a supervised machine learning classification approach to solve this problem and based on the number of target classes I built a binary classifier type of Machine learning model.
@@ -17,9 +18,10 @@ Data Analyst skilled in SQL, Tableau, PowerBI, Machine Learning, and Python
    * Natural Language ToolKit
 + Unstructured data can deliver countless insights that help you make informed, data-driven decisions that can improve the customer experience
    
- [Project 3: Covid-19 Dashboard Using Tableau](https://public.tableau.com/app/profile/elvis.koech/viz/Covid-19DashboardwithTableau/Covid-19Dashboard)
- I created an interactive Dashboard to visualize and track the current trend of covid-19 Cases
- Dataset: Our World in Data
+[Project 3: Covid-19 Dashboard Using Tableau](https://public.tableau.com/app/profile/elvis.koech/viz/Covid-19DashboardwithTableau/Covid-19Dashboard)
+
+ + I created an interactive Dashboard to visualize and track the current trend of covid-19 Cases
+ + Dataset: Our World in Data
  ![](Covid-19_Dashboard.png)
  
  
